@@ -1,5 +1,6 @@
 # SnapChart
 An Augmented Reality powered analytical toolkit to enhance interactivity in a collaborative environment.
+
 Demo can be viewed at: https://youtu.be/H_WvXTPH5dI
 
 
